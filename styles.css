@@ -1,0 +1,26 @@
+#nav-link {
+    font-size: 25px;
+    border: 2px line black;
+}
+
+a {
+    color: green;
+    padding: 15px;
+
+}
+
+h1 {
+    color: coral;
+    font-weight: bold;
+}
+
+h2 {
+    color: darkorchid
+}
+
+html {
+    background: url(scott-webb-GQD3Av_9A88-unsplash.jpg) no-repeat center center fixed;
+    background-size: cover;
+    height: 100%;
+    overflow: hidden;
+}

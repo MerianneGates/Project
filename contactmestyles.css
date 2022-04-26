@@ -1,0 +1,15 @@
+#nav-link {
+    font-size: 25px;
+    border: 2px line black;
+}
+
+a {
+    color: green;
+    padding: 15px;
+
+}
+
+form {
+    border: 6px double darkblue;
+    background-color: lightblue;
+}
